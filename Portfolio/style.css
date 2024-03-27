@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#edu_back{
+    /* background-image: url(/Portfolio/Edu_back.jpg); */
+    height: 900px;
+    width: 1500;
+    
+}
+
+#project{
+    /* background-image: url(/Portfolio/project.jpg); */
+    height: 900px;
+    width: 1500;
+    
+}
+h2{
+  text-align: center;
+  font-size: medium;
+  margin-top:10%;
+}
+h3{
+    text-align: center;
+    font-size: medium;
+    margin-top:10%
+}
